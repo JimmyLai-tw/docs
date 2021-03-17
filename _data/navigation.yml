@@ -10,6 +10,6 @@ main:
   - title: "Year Archive"
     url: /year-archive/
   - title: "Tags Archive"
-    url: /tags-archive/
+    url: /categories/
   - title: "Sitemap"
     url: /sitemap/
