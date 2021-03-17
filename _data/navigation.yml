@@ -9,7 +9,5 @@ main:
     description: "關於我"
   - title: "Year Archive"
     url: /year-archive/
-  - title: "Tags Archive"
-    url: /categories/
   - title: "Sitemap"
     url: /sitemap/
